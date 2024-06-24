@@ -6,7 +6,7 @@ This [Spring Boot](https://spring.io/projects/spring-boot) project is provided a
 
 ## Requirements
 
-Java 17 -- Java can be acquired using [SDKMAN!](https://sdkman.io/)
+Java 21 -- Java can be acquired using [SDKMAN!](https://sdkman.io/)
 
 ## Running the Application
 
